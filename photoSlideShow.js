@@ -28,3 +28,6 @@ const photoSlideShow = {
 photoSlideShow.nextPhoto();
 photoSlideShow.nextPhoto();
 photoSlideShow.nextPhoto();
+photoSlideShow.prevPhoto();
+photoSlideShow.prevPhoto();
+photoSlideShow.prevPhoto();
